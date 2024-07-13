@@ -1,5 +1,15 @@
 # Stock Market Prediction Competition
 
+```
+KGaneshVaidyanathan
+
+Kaushik J
+
+ShauryadeepSinh G R
+
+Mentor:Prof.K S Srinivasa
+```
+
 ## Overview
 
 This Repository is our submission to the Data Analytics Hackathon, part of the Data Analytics Course 2023, PES University. 
